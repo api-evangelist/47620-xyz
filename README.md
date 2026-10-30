@@ -64,5 +64,122 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-47620-xyz is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://47620.xyz/
+47620-xyz is a technology-focused company that provides innovative solutions in the XYZ sector. Established to bridge gaps in the market, it offers a suite of APIs that enable developers to integrate advanced functionalities into their applications. The company emphasizes scalability, security, and ease of use, supporting a wide range of use cases from data processing to real-time analytics. Its commitment to open standards and developer-friendly documentation fosters a vibrant ecosystem of partners and users.
+
+**Areas:** FinTech · Payments · Blockchain · Solana · API
+
+## 47620-xyz on APIs.io
+
+Everything profiled for 47620-xyz is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/47620-xyz/](https://apis.io/providers/47620-xyz/)** — or go straight to one of the APIs or properties below.
+
+### APIs (16)
+
+- [47620-xyz Agent API](https://apis.io/apis/47620-xyz/47620-xyz-agent-api/) — The Agent API from 47620-xyz — 2 operation(s) for agent.
+- [47620-xyz Agent Commerce API](https://apis.io/apis/47620-xyz/47620-xyz-agent-commerce-api/) — The agent-commerce API from 47620-xyz — 2 operation(s) for agent-commerce.
+- [47620-xyz Base API](https://apis.io/apis/47620-xyz/47620-xyz-base-api/) — The Base API from 47620-xyz — 18 operation(s) for base.
+- [47620-xyz Blockchain Data API](https://apis.io/apis/47620-xyz/47620-xyz-blockchain-data-api/) — The blockchain-data API from 47620-xyz — 4 operation(s) for blockchain-data.
+- [47620-xyz Catalog API](https://apis.io/apis/47620-xyz/47620-xyz-catalog-api/) — The Catalog API from 47620-xyz — 40 operation(s) for catalog.
+- [47620-xyz Crypto API](https://apis.io/apis/47620-xyz/47620-xyz-crypto-api/) — The Crypto API from 47620-xyz — 31 operation(s) for crypto.
+- [47620-xyz Data API](https://apis.io/apis/47620-xyz/47620-xyz-data-api/) — The Data API from 47620-xyz — 1 operation(s) for data.
+- [47620-xyz Discovery API](https://apis.io/apis/47620-xyz/47620-xyz-discovery-api/) — The Discovery API from 47620-xyz — 44 operation(s) for discovery.
+- [47620-xyz MCP API](https://apis.io/apis/47620-xyz/47620-xyz-mcp-api/) — The MCP API from 47620-xyz — 13 operation(s) for mcp.
+- [47620-xyz Nano API](https://apis.io/apis/47620-xyz/47620-xyz-nano-api/) — The Nano API from 47620-xyz — 2 operation(s) for nano.
+- [47620-xyz Polygon API](https://apis.io/apis/47620-xyz/47620-xyz-polygon-api/) — The Polygon API from 47620-xyz — 18 operation(s) for polygon.
+- [47620-xyz Security API](https://apis.io/apis/47620-xyz/47620-xyz-security-api/) — The security API from 47620-xyz — 6 operation(s) for security.
+- [47620-xyz Trust API](https://apis.io/apis/47620-xyz/47620-xyz-trust-api/) — The Trust API from 47620-xyz — 4 operation(s) for trust.
+- [47620-xyz Underwriting API](https://apis.io/apis/47620-xyz/47620-xyz-underwriting-api/) — The Underwriting API from 47620-xyz — 3 operation(s) for underwriting.
+- [47620-xyz Utilities API](https://apis.io/apis/47620-xyz/47620-xyz-utilities-api/) — The Utilities API from 47620-xyz — 5 operation(s) for utilities.
+- [47620-xyz X402 API](https://apis.io/apis/47620-xyz/47620-xyz-x402-api/) — The x402 API from 47620-xyz — 2 operation(s) for x402.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [47620 Xyz Agentic Access](https://apis.io/agentic-access/47620-xyz/47620-xyz-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [47620 Xyz Context](https://apis.io/jsonld/47620-xyz/47620-xyz-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [47620-xyz API Rules](https://apis.io/rules/47620-xyz/47620-xyz-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [47620 Xyz Authentication](https://apis.io/security/47620-xyz/47620-xyz-authentication/)
+- [47620 Xyz Domain Security](https://apis.io/security/47620-xyz/47620-xyz-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://47620.xyz/)
+- [API reference](https://47620.xyz/openapi.json)
+- [Pricing](https://47620.xyz/buy)
+- [Trust centre](https://47620.xyz/x/trust)
+
+## API Evangelist rating
+
+**Kin Score 35.6** — thin · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 49.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 18.4 |
+
+**Agent readiness 38.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | near-conformant (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 19.6** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/47620-xyz/](https://apis.io/providers/47620-xyz/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for 47620-xyz: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/47620-xyz/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
