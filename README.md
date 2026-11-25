@@ -66,7 +66,7 @@
 
 47620-xyz is a technology-focused company that provides innovative solutions in the XYZ sector. Established to bridge gaps in the market, it offers a suite of APIs that enable developers to integrate advanced functionalities into their applications. The company emphasizes scalability, security, and ease of use, supporting a wide range of use cases from data processing to real-time analytics. Its commitment to open standards and developer-friendly documentation fosters a vibrant ecosystem of partners and users.
 
-**Areas:** FinTech · Payments · Blockchain · Solana · API
+**Areas:** Fintech · Payments · Blockchain · Solana
 
 ## 47620-xyz on APIs.io
 
@@ -95,11 +95,17 @@ Everything profiled for 47620-xyz is published on APIs.io rather than in this re
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [47620-xyz-mcp.yml](https://apis.io/servers/47620-xyz/47620-xyz-mcp-yml/)
+
 #### Agentic access (1)
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [47620 Xyz Agentic Access](https://apis.io/agentic-access/47620-xyz/47620-xyz-agentic-access/)
+- [47620-xyz Agentic Access](https://apis.io/agentic-access/47620-xyz/47620-xyz-agentic-access/)
 
 #### JSON-LD (1)
 
@@ -117,8 +123,8 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [47620 Xyz Authentication](https://apis.io/security/47620-xyz/47620-xyz-authentication/)
-- [47620 Xyz Domain Security](https://apis.io/security/47620-xyz/47620-xyz-domain-security/)
+- [47620-xyz Authentication](https://apis.io/security/47620-xyz/47620-xyz-authentication/)
+- [47620-xyz Domain Security](https://apis.io/security/47620-xyz/47620-xyz-domain-security/)
 
 ## Where to find this API
 
@@ -131,27 +137,27 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 35.6** — thin · rubric 0.25.0 · scored 2026-10-29
+**Kin Score 29.1** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 62.5 |
-| Contract quality | 49.5 |
-| Contract governance | 79.1 |
+| Discoverability | 73.3 |
+| Contract quality | 52.6 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 19.0 |
-| Access clarity | 18.4 |
+| Access clarity | 14.9 |
 
-**Agent readiness 38.8** — agent-ready (gated down from agent-native)
+**Agent readiness 44.7** — agent-native
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | na |
+| MCP Server | verified |
 | Auth Clarity | bearer (partial credit) |
-| Idempotency | — |
+| Idempotency | na |
 | Error Semantics | verified |
 | OpenAPI Examples | partial |
 | Rate Limit Signal | — |
@@ -160,15 +166,19 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | near-conformant (partial credit) |
-| Dry Run Mode | — |
+| Dry Run Mode | na |
 | Delegated Identity | — |
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 19.6** — Payments
+**Regulatory alignment 14.3** — Payments
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/47620-xyz/](https://apis.io/providers/47620-xyz/).
 
